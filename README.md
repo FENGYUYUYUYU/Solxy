@@ -25,3 +25,5 @@ print(Fore.RED + '卡密无效')
 
 SolxyQQGroup 782621160
 
+https://github.com/FengYu-333/Solxy
+
